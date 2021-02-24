@@ -7,6 +7,7 @@ let questionList = [
     "What is something you are terrible at but wish you could do well?",
     "What is the quality you admire most and dislike the most in a person?",
     "What was the most recent thing that made you cry?",
+    "Do you have any tattoos? If so, how many?",
     "What is a movie that you could watch on repeat and never get tired of it?",
     "If you could be any mythical creature, what would you be?",
     "Which job have you had that has taught you the most?",
