@@ -1,7 +1,14 @@
+html{
+    min-height: 100%;
+    min-width: 100%;
+
+}
 body{
     background: rgb(29,170,130);
     background: linear-gradient(90deg, rgba(29,170,130,1) 23%, rgba(17,255,244,1) 90%);
+    height: 100%;
     background-repeat: no-repeat;
+    margin: 0;    
 }
 .hidden{
     display: none;
