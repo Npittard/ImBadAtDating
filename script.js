@@ -213,9 +213,21 @@ let questionList = [
     "What is your favorite movie genre?",
     "What is something you like to do the old-fashioned way?",
     "Do you think with emotions or logic?",
-    
-
-
+    "Bulbasaur, Charmander or Squirtle?",
+    "What kind of music do you like?",
+    "What would you have for your last meal if you were on death row?",
+    "Who was your best friend in 2nd grade?",
+    "What do you wish you could do more of?",
+    "Do you think you could win a fight against a bear?",
+    "How do you think you'd do in a zombie apocalpyse?",
+    "Were you ever in a school play? What was your role? What was the plot of the play? Did anything funny ever happen when you were on stage?",
+    "What is the last concert you saw?",
+    "Describe your mom's best friend.",
+    "What was your favorite class you have ever taken?",
+    "Tell your partner something that you like about them already.",
+    "Is there something that you've dreamed of doing for a long time? Why haven't you done it?",
+    "For what in your life do you feel most grateful?",
+    "When did you last sing to yourself? To someone else?",
 ]
 
 newQuestion = () => {
